@@ -4,9 +4,9 @@ const state = {
     selectedItem: null,
     map: null,
     currentLocation: {
-        lat: 51.505,
-        lng: -0.09,
-        zoom: 13
+        lat: 54.87157,
+        lng: 23.93421,
+        zoom: 10
     }
 };
 
