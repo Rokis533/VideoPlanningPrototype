@@ -6,7 +6,7 @@ const state = {
     currentLocation: {
         lat: 54.87157,
         lng: 23.93421,
-        zoom: 10
+        zoom: 15
     }
 };
 
